@@ -1,0 +1,10 @@
+{
+  "name": "Promptor Marketplace",
+  "description": "Expert AI prompt generator using reverse prompt engineering",
+  "plugins": [
+    {
+      "name": "promptor",
+      "path": "."
+    }
+  ]
+}
