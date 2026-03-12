@@ -1,9 +1,0 @@
-{
-  "name": "promptor",
-  "version": "0.1.0",
-  "description": "Expert AI prompt generator using reverse prompt engineering. Crafts perfect, tool-specific prompts through iterative refinement — from Claude to Midjourney, GPT to Bolt.",
-  "author": {
-    "name": "HAVET DIGITAL"
-  },
-  "keywords": ["prompt-engineering", "ai-prompts", "reverse-engineering", "prompt-generator"]
-}

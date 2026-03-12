@@ -3,15 +3,11 @@
   "owner": {
     "name": "HAVET DIGITAL"
   },
-  "metadata": {
-    "description": "Expert AI prompt generator using reverse prompt engineering"
-  },
   "plugins": [
     {
       "name": "promptor",
-      "source": ".",
-      "description": "Expert AI prompt generator using reverse prompt engineering. Crafts perfect, tool-specific prompts through iterative refinement.",
-      "version": "0.1.0"
+      "source": "./plugins/promptor",
+      "description": "Expert AI prompt generator using reverse prompt engineering. Crafts perfect, tool-specific prompts through iterative refinement."
     }
   ]
 }
